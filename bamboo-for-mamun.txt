@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 The procedure is going on give bamboo to mamun.
-=======
-The procedure is going on give bamboo to mamun demand..
->>>>>>> master
+test new
